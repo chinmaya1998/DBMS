@@ -1,0 +1,1 @@
+https://dba.stackexchange.com/questions/3005/how-to-run-psql-on-mac-os-x
