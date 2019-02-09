@@ -470,23 +470,23 @@ PLAYER_SK,Player_Id,Player_Name,DOB,Batting_hand,Bowling_skill,Country_Name
 468,469,T Mishra,12/22/1986,Right-hand bat,Right-arm fast-medium,India
 469,470,A Choudhary,1/28/1990,Right-hand bat,Left-arm medium,India
 470,471,AJ Tye,12-12-1986,Right-handed,Right-arm medium fast,Australia
-471,472,Ankit Soni,08-02-1993, Right-hand bat, Legbreak,India
-472,473,AR Bawne,12/17/1992, Right-hand bat,Right-arm offbreak,India
+471,472,Ankit Soni,08-02-1993,Â Right-hand bat,Legbreak,India
+472,473,AR Bawne,12/17/1992,Right-hand bat,Right-arm offbreak,India
 473,474,Avesh Khan,12/13/1996,Right-hand bat,Right-arm medium-fast,India
 474,475,B Stanlake,11-04-1994,Left-hand bat,Right-arm fast,Australia
 475,476,BA Stokes,06-04-1991,Left-hand bat,Right-arm fast-medium,England
 476,477,Basil Thampi,09-11-1993,Right-hand bat,Right-arm fast-medium,India
 477,478,C de Grandhomme,7/22/1986,Right-hand bat,Right-arm fast-medium,New Zealand
-478,479,CR Woakes,03-02-1989, Right-hand bat,Right-arm fast-medium,England
-479,480,DM Bravo,02-06-1989, Left-hand bat,Right-arm medium-fast,West Indies
-480,481,JJ Roy,7/21/1990, Right-hand bat,NULL,England
-481,482,K Rabada,5/25/1995, Left-hand bat,Right-arm fast,South Africa
+478,479,CR Woakes,03-02-1989,Â Right-hand bat,Right-arm fast-medium,England
+479,480,DM Bravo,02-06-1989,Left-hand bat,Right-arm medium-fast,West Indies
+480,481,JJ Roy,7/21/1990,Right-hand bat,NULL,England
+481,482,K Rabada,5/25/1995,Left-hand bat,Right-arm fast,South Africa
 482,483,LH Ferguson,6/13/1991,Right-hand bat,Right-arm fast,New Zealand
-483,484,MJ Henry,12/14/1991, Right-hand bat,Right-arm fast-medium,New Zealand
-484,485,Mohammad Nabi,01-01-1985, Right-hand bat,Right-arm offbreak,Afghanistan
+483,484,MJ Henry,12/14/1991,Right-hand bat,Right-arm fast-medium,New Zealand
+484,485,Mohammad Nabi,01-01-1985,Right-hand bat,Right-arm offbreak,Afghanistan
 485,486,Mohammed Siraj,3/13/1994,Right-hand bat,Right-arm medium-fast,India
 486,487,NB Singh,09-08-1995,Right-hand bat,Right-arm medium,India
-487,488,RA Tripathi,03-02-1991, Right-hand bat,Right-arm medium,India
+487,488,RA Tripathi,03-02-1991,Â Right-hand bat,Right-arm medium,India
 488,489,Rashid Khan,11/20/1998,Right-hand bat,Legbreak googly,Afghanistan
 489,490,RD Chahar,08-04-1999,Right-hand bat,Legbreak googly,India
 490,491,SP Jackson,9/27/1986,Right-hand bat,NULL,India
@@ -495,4 +495,4 @@ PLAYER_SK,Player_Id,Player_Name,DOB,Batting_hand,Bowling_skill,Country_Name
 493,494,Tejas Baroka,02-01-1996,Right-hand bat,Legbreak googly,India
 494,495,TS Mills,08-12-1992,Right-hand bat,Left-arm fast,England
 495,496,Vishnu Vinod,12-02-1993,Right-hand bat,NULL,India
-496,497,Washington Sundar,10-05-1999, Left-hand bat,Right-arm offbreak,India
+496,497,Washington Sundar,10-05-1999,Left-hand bat,Right-arm offbreak,India
